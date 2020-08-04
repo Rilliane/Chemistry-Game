@@ -1,5 +1,5 @@
 # Chemistry-Game
-一个化学题材的塔防游戏，用cocos creator开发
+一个化学题材的塔防游戏，用cocos creator开发，typescript编写脚本
 
 - 打开工程的方法
 1. 安装cocos creator2.3.3
