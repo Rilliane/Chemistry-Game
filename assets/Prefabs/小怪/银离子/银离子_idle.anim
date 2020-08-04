@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "银离子_idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c0bbdd62-c5b0-47cb-a238-bb11f28438fe"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "d7719d91-08f5-418f-966d-616f7940c12a"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "c0bbdd62-c5b0-47cb-a238-bb11f28438fe"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

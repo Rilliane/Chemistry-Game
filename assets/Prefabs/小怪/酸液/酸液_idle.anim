@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "酸液_idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d388aa69-1cb4-453a-8162-d8da557f92aa"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "c4b85366-4ae3-4ca8-ab6b-e5f0495fc608"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "ed0702e9-04a9-4e0b-a975-ad58a97e7afa"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "d388aa69-1cb4-453a-8162-d8da557f92aa"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

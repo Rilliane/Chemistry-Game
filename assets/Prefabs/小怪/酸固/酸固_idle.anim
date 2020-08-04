@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "酸固_idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "36853b8e-277a-4303-913b-bb602f7d9243"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "3cef0033-7a98-4417-812f-ce9d81023560"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "36853b8e-277a-4303-913b-bb602f7d9243"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

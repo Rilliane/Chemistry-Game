@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "碱液_idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "53ccafb9-a2be-41c2-9145-38c635ccd6d1"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "ce6f260b-542d-4bb4-8b42-cfc705fdfc0d"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "35be4964-7bc1-491f-a9ee-98df4efb6189"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "53ccafb9-a2be-41c2-9145-38c635ccd6d1"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

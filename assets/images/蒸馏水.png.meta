@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "158dfc6f-c7e8-4635-9959-c10fdab91823",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 65,
+  "height": 100,
+  "platformSettings": {},
+  "subMetas": {
+    "蒸馏水": {
+      "ver": "1.0.4",
+      "uuid": "a7544c21-e77e-4c02-986a-cd2a86b42daa",
+      "rawTextureUuid": "158dfc6f-c7e8-4635-9959-c10fdab91823",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 65,
+      "height": 100,
+      "rawWidth": 65,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

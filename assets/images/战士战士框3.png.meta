@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "5bce0b74-9487-4177-834e-cc2da649179e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 117,
+  "height": 153,
+  "platformSettings": {},
+  "subMetas": {
+    "战士战士框3": {
+      "ver": "1.0.4",
+      "uuid": "0e295b22-79f0-4d72-8a50-3d6801a2c536",
+      "rawTextureUuid": "5bce0b74-9487-4177-834e-cc2da649179e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 117,
+      "height": 153,
+      "rawWidth": 117,
+      "rawHeight": 153,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2f7726c3-32da-4781-a572-b3f7bf6da503",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 174,
+  "height": 170,
+  "platformSettings": {},
+  "subMetas": {
+    "扇形地砖4": {
+      "ver": "1.0.4",
+      "uuid": "77a38881-a736-45dc-8952-5dc7f008fa65",
+      "rawTextureUuid": "2f7726c3-32da-4781-a572-b3f7bf6da503",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 173,
+      "height": 169,
+      "rawWidth": 174,
+      "rawHeight": 170,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

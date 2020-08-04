@@ -1,0 +1,61 @@
+{
+  "group-list": [
+    "default"
+  ],
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "excluded-modules": [
+    "Dynamic Atlas",
+    "DragonBones",
+    "Geom Utils",
+    "Mask",
+    "MotionStreak",
+    "Native Socket",
+    "PageView",
+    "PageViewIndicator",
+    "ParticleSystem",
+    "Renderer Texture",
+    "Slider",
+    "ScrollBar",
+    "ScrollView",
+    "Spine Skeleton",
+    "StudioComponent",
+    "Toggle",
+    "TiledMap",
+    "VideoPlayer",
+    "WebView",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
+  ],
+  "last-module-event-record-time": 1593440911189,
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "migrate-history": [],
+  "start-scene": "current"
+}

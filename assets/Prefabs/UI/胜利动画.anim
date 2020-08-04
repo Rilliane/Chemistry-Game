@@ -1,0 +1,131 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "胜利动画",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            7.108,
+            235.008,
+            0
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            7.108,
+            302.416,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            7.108,
+            239.822,
+            0
+          ]
+        },
+        {
+          "frame": 0.75,
+          "value": [
+            7.108,
+            297.601,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            7.108,
+            239.822,
+            0
+          ]
+        }
+      ],
+      "eulerAngles": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "frame": 1,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 30
+          }
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "frame": 1.5,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": -30
+          }
+        },
+        {
+          "frame": 1.6666666666666667,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "frame": 1.8333333333333333,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 30
+          }
+        },
+        {
+          "frame": 2,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

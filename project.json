@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "ChemistryGame",
+  "uuid": "d982c662-2e54-4acc-9ab4-858f92a95dd9",
+  "version": "2.3.3",
+  "id": "f1af63b9-7a20-4a6e-b5a6-996894515736",
+  "isNew": false
+}

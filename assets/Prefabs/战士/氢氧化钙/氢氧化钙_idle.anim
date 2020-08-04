@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "氢氧化钙_idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.9333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "89fc628e-0d3a-4fcf-b232-08d3d418a620"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "c1a198b0-2eba-4e30-ac28-65323105b1ff"
+            }
+          },
+          {
+            "frame": 0.9166666666666666,
+            "value": {
+              "__uuid__": "89fc628e-0d3a-4fcf-b232-08d3d418a620"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

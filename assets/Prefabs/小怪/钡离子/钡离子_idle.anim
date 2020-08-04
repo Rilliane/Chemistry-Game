@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "钡离子_idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6b59ac37-34d0-4cc3-803a-89b3c96e3b08"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "419a39c7-32f7-43ad-b24e-258fec904f01"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "6b59ac37-34d0-4cc3-803a-89b3c96e3b08"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

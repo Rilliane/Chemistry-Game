@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "3d6c2c93-84ce-4165-b178-9ece6a2448ad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 462,
+  "height": 102,
+  "platformSettings": {},
+  "subMetas": {
+    "化学大作战": {
+      "ver": "1.0.4",
+      "uuid": "de74b9f9-33e8-4e52-be58-48c9eaa1855b",
+      "rawTextureUuid": "3d6c2c93-84ce-4165-b178-9ece6a2448ad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 462,
+      "height": 102,
+      "rawWidth": 462,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

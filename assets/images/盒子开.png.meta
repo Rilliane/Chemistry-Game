@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "80ee8bcc-31cc-411a-aedd-13f3a1630a99",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1536,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "盒子开": {
+      "ver": "1.0.4",
+      "uuid": "fda695a7-3622-4365-931f-0b01ae3e9f85",
+      "rawTextureUuid": "80ee8bcc-31cc-411a-aedd-13f3a1630a99",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 116.5,
+      "offsetY": 274,
+      "trimX": 751,
+      "trimY": 645,
+      "width": 267,
+      "height": 210,
+      "rawWidth": 1536,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "氢氧化钾_idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "015ba6a0-f853-461f-8b1f-1365afd4171e"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "003207d8-7eb9-4c4f-ae80-59b1802e0235"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "015ba6a0-f853-461f-8b1f-1365afd4171e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
